@@ -80,5 +80,5 @@
   
   Github Analytics           |  Most Used Languages
   :-------------------------:|:-------------------------:
-  ![](https://github-readme-stats.vercel.app/api?username=sxvaaze&show_icons=true&theme=radical&title_color=8E5AE9)  |  <img height="195vh" width="500vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxvaaze&layout=compact&title_color=8E5AE9&text_color=e7e7e7&icon_color=007bff&bg_color=141321&border=0"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sxvaaze&show_icons=true&theme=radical&title_color=8E5AE9"/>  |  <img height="195vh" width="500vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxvaaze&layout=compact&title_color=8E5AE9&text_color=e7e7e7&icon_color=007bff&bg_color=141321&border=0"/>
 </div>
