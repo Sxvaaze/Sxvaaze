@@ -1,9 +1,9 @@
 ### Hello there, my name is Sxvaaze and I'm a computer science student & programmer currently residing in Greece.
 
-- 🖧 Previous experience in DevOps.
 - 💻 Programming enthusiast, fluent in a plethora (of mainly) high level languages, have worked on integrated systems and their applications.
 - 🌐 Fluent in English and Greek, currently studying Norwegian.
 - 💾 Heavily into technology, and technology history.
+- 📟 Interested in electronics, communications, networking and IoT.
 - 🧮 Interested in other fields, such as linguistics and mathematics.<br/>
 - 📄 Theoretical Computer Science Researcher and Experimentalist.
 
@@ -43,12 +43,12 @@
   <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" />
   <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-    <img align="left" alt="Rust" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png"/>
+  <img align="left" alt="Rust" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png"/>
   <img align="left" alt="PHP" width="26px" src="http://pngimg.com/uploads/php/php_PNG50.png" />
   <img align="left" alt="C" width="26px" src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" />
   <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
   <img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-
+  <img align="left" alt="Arduino -  Ino" width="39px" src="https://roboticsbackend.com/wp-content/uploads/2022/04/arduino_logo.png" />
 </details>
 
 <br/>
